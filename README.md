@@ -1,5 +1,4 @@
-% export JAVA_HOME=
-
+% export JAVA_HOME
 % mvn clean
 % mvn compile
 % mvn package
